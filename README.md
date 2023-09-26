@@ -50,3 +50,5 @@ Truly Optimized is currently in the alpha phase, so feedback from users is great
 - Major versions will be y.x.x
 - Versions with bugfixes, new mods, config changes, etc will be x.y.x
 - Extremely minor changes will be x.x.y 
+
+**This is for Wiki and information related things. No versions will be uploaded here.**
